@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+Disallow: /assets/private/
+Disallow: /temp/
+
+# SGE and AI Bot Specific Rules
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+Sitemap: https://dailyappsmania.github.io/sitemap.xml
