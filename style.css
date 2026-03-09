@@ -179,3 +179,61 @@ footer {
     border-top: 1px solid var(--primary-blue);
     margin-top: 60px;
 }
+
+/* Mobile Optimizations */
+@media (max-width: 600px) {
+	.logo {
+		max-width: 80px; /* Optimal Logo Size: 400x100 for desktop, auto-scaled */
+		height: auto;
+	}
+	
+	.app-screenshot {
+		max-width: 100%;
+		height: auto;
+		/* Optimal size for screenshots: 1080x2340 (Portrait) for high-end mobile rendering */
+		max-width: 80px; /* Optimal Logo Size: 400x100 for desktop, auto-scaled */
+		height: auto;
+	}
+	
+    .container {
+        padding: 15px;
+    }
+
+    header {
+        flex-direction: column; /* Stacks logo and nav */
+        text-align: center;
+        gap: 15px;
+        padding-bottom: 15px;
+    }
+
+    nav {
+        gap: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    nav a {
+        font-size: 0.9rem;
+    }
+
+    .hero {
+        padding: 40px 15px; /* Smaller vertical footprint */
+        margin-bottom: 30px;
+    }
+
+    .hero h1 {
+        font-size: 1.8rem; /* Scaled down header */
+    }
+
+    .hero p {
+        font-size: 1rem;
+    }
+
+    .app-grid {
+        grid-template-columns: 1fr; /* Single column on small screens */
+    }
+
+    .app-card {
+        padding: 20px;
+    }
+}
