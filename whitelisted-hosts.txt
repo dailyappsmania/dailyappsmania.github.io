@@ -1,1 +1,1 @@
-127.0.0.1 ypmate.com
+# Nothin found to ignore or whitelist. Will add if found anything to be whitelisted.
