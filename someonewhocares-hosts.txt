@@ -7343,7 +7343,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 cn.adserver.yahoo.com
 127.0.0.1 cnf.adshuffle.com
 127.0.0.1 cnt.trafficstars.com
-127.0.0.1 cnt1.xhamster.com
 127.0.0.1 cntmc.com
 127.0.0.1 cobalten.com
 127.0.0.1 code.adtlgc.com
@@ -9267,7 +9266,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 popupdomination.com
 127.0.0.1 popups.afftrack001.com
 127.0.0.1 popups.infostart.com
-127.0.0.1 pornstargals.com
 127.0.0.1 pos.baidu.com
 127.0.0.1 post.rmbn.ru
 127.0.0.1 poster.gamesprite.me
@@ -12459,7 +12457,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.kitchentablegang.org
 127.0.0.1 www.km69.de
 127.0.0.1 www.kvr-systems.de
-127.0.0.1 www.lesben-pornos.cxa.de
 127.0.0.1 www.littledevildoubt.com
 127.0.0.1 www.masterspace.biz
 127.0.0.1 www.medical-research-books.com
@@ -12736,9 +12733,7 @@ ff02::3		ip6-allhosts
 127.0.0.1 www.walkthedinosaur.com
 127.0.0.1 www.whipcrack.org
 127.0.0.1 www.wormgush.com
-127.0.0.1 www.xvideoslive.com
 127.0.0.1 www.youaresogay.com
-127.0.0.1 www.ypmate.com
 127.0.0.1 www.zentastic.com
 127.0.0.1 youaresogay.com
 127.0.0.1 zentastic.com
