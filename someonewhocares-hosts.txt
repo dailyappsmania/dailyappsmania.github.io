@@ -9612,7 +9612,6 @@ ff02::3		ip6-allhosts
 127.0.0.1 s.dynad.net
 127.0.0.1 s.flite.com
 127.0.0.1 s.innovid.com
-127.0.0.1 s.media-imdb.com
 127.0.0.1 s.megaclick.com
 127.0.0.1 s.moatads.com
 127.0.0.1 s.ntv.io

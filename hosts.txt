@@ -6420,7 +6420,6 @@
 127.0.0.1 nbcudisplay.s.moatpixel.com
 127.0.0.1 nbcuvideo.s.moatpixel.com
 127.0.0.1 openxdisplay970503469688.s.moatpixel.com
-127.0.0.1 openxvideo114183407631.s.moatpixel.com
 127.0.0.1 pgthetradedeskv275874568748.s.moatpixel.com
 127.0.0.1 pgthetradedeskvideo910663478306.s.moatpixel.com
 127.0.0.1 pgttdinnovidna5267443539015.s.moatpixel.com
