@@ -74332,7 +74332,6 @@ browsershots.org#@#.advert_area
 ||asg.moviesex.org^
 ||asg.prettytube.net^
 ||asg.sdtraff.com^
-||asg.xnxxxnxx.site^
 ||asi.linksex.club^
 ||asianbutterflies.com/potd/
 ||asktiava.com/promotion/
@@ -84635,7 +84634,6 @@ porndr.com###PD-Under-player
 deviants.com###_iframe_content
 swfchan.com###aaaa
 justthegays.tv###ad-banner
-xnxx.com###ad-footer
 njav.com###ad300250
 eporner.com###addesktop
 javgg.net###adlink
@@ -84817,7 +84815,6 @@ megatube.xxx###sponsor-widget
 porn4fans.com###spot_player_start
 hd21.com,winporn.com###spot_video_livecams
 hd21.com,winporn.com###spot_video_underplayer_livecams
-xnxxporn.video###spotholder
 maxjizztube.com###spotxt
 trannyvideosxxx.com###text-2
 yaoimangaonline.com###text-28
@@ -84871,7 +84868,6 @@ pimpandhost.com##.ablock_yes
 pornx.to##.above-single-player
 cambb.xxx,chaturbate.com,dlgal.com,playboy.com,rampant.tv,sex.com,signbucks.com,tallermaintenancar.com,thehentaiworld.com,thehun.net,tiktits.com,xcafe.com##.ad
 coomer.st,kemono.cr,official.coomer.com.co,pics-x.com,urlgalleries.net,xfreehd.com##.ad-container
-xnxx.com##.ad-footer
 javur.com##.ad-h250
 trueamateurporn.org##.ad-row-x
 gay.bingo##.ad-w
@@ -85008,7 +85004,6 @@ porngames.games##.bnr-side
 porngames.games##.bnr-top
 ok.porn,ok.xxx,pornhat.com##.bns-bl
 sexsbarrel.com##.bns-place-ob
-xnxxvideoporn.com##.bot_bns
 pornoreino.com##.bottom-bang
 alphaporno.com,katestube.com,sleazyneasy.com,vikiporn.com##.bottom-banners
 dailyporn.club##.bottom-blocks
@@ -85174,8 +85169,6 @@ xxxonxxx.com,youtubelike.com##.gallery-thumbs
 porngamesverse.com##.game-aaa
 tubator.com##.ggg_container
 tallermaintenancar.com##.girl
-pornflix.cc,pornstarwarshentai.com,xnxx.army##.global-army
-bravoteens.com,bravotube.net##.good_list_wrap
 homejav.com,kbjfree.com,onscreens.me,xmorex.com,xsz-av.com##.h-\[250px\]
 amateur-vids.eu,bestjavporn.com,deepfucks.com,mature.community,milf.community,milf.plus##.happy-footer
 ofansleaks.com##.happy-footer-mobile
@@ -85339,11 +85332,6 @@ zbporn.com##.p-ig
 f95zone.to##.p-nav-list .p-navEl-link[target="_blank"]
 hot.co.uk,hot.com##.p-search__action-results.badge-absolute.text-div-wrap.top
 empflix.com##.pInterstitialx
-hobby.porn##.pad
-dessi.co##.pages__BannerWrapper-sc-1yt8jfz-0
-tube8.com,tube8.es,tube8.fr##.paidTab
-xxxdan3.com##.partner-site
-hclips.com,hotmovs.tube##.partners-wrap
 xfantazy.com##.partwidg1
 fapnado.xxx##.pause-ad-pullup
 empflix.com##.pause-overlay
@@ -85351,8 +85339,6 @@ porn87.com##.pc_instant
 ebony8.com,maturetubehere.com##.pignr
 bigtitslust.com,sortporn.com##.pignr.item
 cumlouder.com##.resumecard
-porndroids.com##.resumecard__banner
-abjav.com,aniporn.com,bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,pornstarwarshentai.com,porntop.com,xnxx.army##.right
 infospiral.com##.right-content
 pornoreino.com##.right-side
 definebabe.com##.right-sidebar
@@ -85460,7 +85446,6 @@ tranny.one##.th-ba
 hentaiblue.net##.theiaStickySidebar
 porn87.com##.three_ads
 chikiporn.com,pornq.com##.thumb--adv
-xnxx.com,xvideos.com##.thumb-ad
 pornpictureshq.com##.thumb__iframe
 yeswegays.com##.thumb_spots
 tallermaintenancar.com##.thumbs
@@ -85505,16 +85490,7 @@ tryindianporn.com##.uvk
 hmanga.world##.v-alert--variant-outlined
 hentaiprn.com##.v-overlay
 javtiful.com##.v3sb-box
-see.xxx##.vda-item
-indianpornvideos.com##.vdo-unit
-xnxxporn.video##.vertbars
-porngames.games##.vertical-trending-ads
-xvideos.com##.video-ad
-pornone.com##.video-add
 criollasx.com##.video-archive-ad
-eroprn.com##.video-aside
-sexseeimage.com##.video-block-happy
-x-hd.video##.video-brs
 video.javdock.com##.video-container
 pornhoarder.tv##.video-detail-bspace
 boyfriend.tv,boyfriendtv.com##.video-extra-wrapper
