@@ -21,8 +21,9 @@
 
 
 # Custom domains added by us
-127.0.0.1 tesorf.com
-127.0.0.1 frs2c.com
+127.0.0.1 nfrit.com
+127.0.0.1 pieshopweedish.shop
+127.0.0.1 ex.ramplorwharve.com
 
 127.0.0.1  localhost
 ::1  localhost
