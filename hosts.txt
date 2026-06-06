@@ -19,6 +19,15 @@
 # Create an issue at https://github.com/AdAway/adaway.github.io/issues
 #
 
+
+# Custom domains added by us
+127.0.0.1 unjustsubmerge.com
+127.0.0.1 fuck-dating.com
+127.0.0.1 crafina.top
+127.0.0.1 tesorf.com
+127.0.0.1 moltriva.top
+127.0.0.1 frs2c.com
+
 127.0.0.1  localhost
 ::1  localhost
 
